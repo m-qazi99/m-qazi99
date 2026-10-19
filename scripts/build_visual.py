@@ -46,7 +46,7 @@ for key,label,url in ICONS:
  c=paper(280,190)+logo(key,108,31,64)+t(140,143,label,18,INK,'text-anchor="middle"')+t(140,169,'↗',14,G,'text-anchor="middle"')
  svg('tool-'+key+'.svg',280,190,c,label+' — view documentation')
 for fname,left,right in [('stack-heading.svg','01 / THE TOOLKIT','CLOUD  /  DATA  /  AUTOMATION'),('work-heading.svg','02 / SELECTED WORK','EXPLORE THE CASE STUDIES'),('journey-heading.svg','03 / THE JOURNEY','COGNIZANT TECHNOLOGY SOLUTIONS')]:
- c=t(5,40,left,14,G,'letter-spacing="3"')+t(1190,40,right,11,M,'text-anchor="end" letter-spacing="2"')+'<path d="M4 60h1192" stroke="#c9b68f"/>'
+ c=paper(1200,74)+t(24,44,left,16,G,'letter-spacing="3"')+t(1176,44,right,12,M,'text-anchor="end" letter-spacing="2"')
  svg(fname,1200,74,c,left)
 # Three compact illustrated, clickable case-study cards.
 for key,title1,title2,category,subtitle in [('pipeline','Pipeline','Support Assistant','CASE STUDY','AI-assisted diagnostics'),('quality','Data Quality &','Reconciliation','CASE STUDY','Metadata-driven validation'),('knowledge','Operations','Knowledge Assistant','PROOF OF CONCEPT','RAG · LlamaIndex')]:
