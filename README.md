@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/profile-banner-light.svg">
-  <img alt="Muzammil Qazi — Reliable data. Practical AI. Less busywork." src="assets/profile-banner-light.svg" width="1200" height="340">
+  <img alt="Muzammil Qazi — Reliable data. Practical AI. Less busywork." src="assets/profile-banner-light.svg" width="1200">
 </picture>
 
 # Muzammil Qazi
