@@ -45,7 +45,7 @@ for key,label in [('portfolio','PORTFOLIO'),('resume','RÉSUMÉ'),('linkedin','L
 for key,label,url in ICONS:
  c=paper(280,190)+logo(key,108,31,64)+t(140,143,label,18,INK,'text-anchor="middle"')+t(140,169,'↗',14,G,'text-anchor="middle"')
  svg('tool-'+key+'.svg',280,190,c,label+' — view documentation')
-for fname,left,right in [('stack-heading.svg','01 / THE TOOLKIT','CLOUD  /  DATA  /  AUTOMATION'),('work-heading.svg','02 / SELECTED WORK','EXPLORE THE CASE STUDIES'),('journey-heading.svg','03 / THE JOURNEY','COGNIZANT TECHNOLOGY SOLUTIONS')]:
+for fname,left,right in [('stack-heading-v2.svg','01 / THE TOOLKIT','CLOUD  /  DATA  /  AUTOMATION'),('work-heading-v2.svg','02 / SELECTED WORK','EXPLORE THE CASE STUDIES'),('journey-heading-v2.svg','03 / THE JOURNEY','COGNIZANT TECHNOLOGY SOLUTIONS')]:
  c=paper(1200,74)+t(24,44,left,16,G,'letter-spacing="3"')+t(1176,44,right,12,M,'text-anchor="end" letter-spacing="2"')
  svg(fname,1200,74,c,left)
 # Three compact illustrated, clickable case-study cards.
@@ -84,18 +84,18 @@ readme='''<!-- Original visual profile. Edit scripts/build_visual.py to regenera
 '''
 nav=[('portfolio','https://m-qazi99.github.io/','Open portfolio'),('resume','https://m-qazi99.github.io/Muzammil_Qazi_Resume.pdf','Download résumé'),('linkedin','https://www.linkedin.com/in/muzammil-1209-qazi/','Connect on LinkedIn'),('contact','mailto:kazimuzammil99@gmail.com','Email Muzammil')]
 for key,url,alt in nav:readme+=f'  <a href="{url}"><img src="assets/visual/nav-{key}.svg" alt="{alt}" width="170"></a>\n'
-readme+='</p>\n\n<img src="assets/visual/stack-heading.svg" alt="Technology toolkit" width="100%">\n\n<p align="center">\n'
+readme+='</p>\n\n<img src="assets/visual/stack-heading-v2.svg" alt="Technology toolkit" width="100%">\n\n<p align="center">\n'
 for i,(key,label,url)in enumerate(ICONS):
  readme+=f'  <a href="{url}"><img src="assets/visual/tool-{key}.svg" alt="{label}" width="170"></a>\n'
  if i==3:readme+='</p>\n<p align="center">\n'
-readme+='</p>\n\n<p align="center"><a href="https://m-qazi99.github.io/#skills">More technologies ↗</a></p>\n\n<img src="assets/visual/work-heading.svg" alt="Selected case studies" width="100%">\n\n<p align="center">\n'
+readme+='</p>\n\n<p align="center"><a href="https://m-qazi99.github.io/#skills">More technologies ↗</a></p>\n\n<img src="assets/visual/work-heading-v2.svg" alt="Selected case studies" width="100%">\n\n<p align="center">\n'
 for key,slug,alt in [('pipeline','pipeline-support','Pipeline Support Assistant — case study'),('quality','data-quality','Data Quality and Reconciliation — case study'),('knowledge','knowledge-assistant','Operations Knowledge Assistant — proof of concept')]:
  readme+=f'  <a href="https://m-qazi99.github.io/work/{slug}/"><img src="assets/visual/work-{key}.svg" alt="{alt}" width="245"></a>\n'
 readme+='''</p>
 
 <p align="center"><a href="https://github.com/m-qazi99/m-qazi99.github.io">Portfolio source code ↗</a></p>
 
-<img src="assets/visual/journey-heading.svg" alt="Career at Cognizant" width="100%">
+<img src="assets/visual/journey-heading-v2.svg" alt="Career at Cognizant" width="100%">
 <p align="center">\n<a href="https://m-qazi99.github.io/#experience"><img src="assets/visual/job-trainee.svg" alt="Cognizant: Programmer Analyst Trainee, March 2022–June 2023" width="245"></a>\n<a href="https://m-qazi99.github.io/#experience"><img src="assets/visual/job-analyst.svg" alt="Cognizant: Programmer Analyst, June 2023–November 2024" width="245"></a>\n<a href="https://m-qazi99.github.io/#experience"><img src="assets/visual/job-associate.svg" alt="Cognizant: Associate, November 2024–present" width="245"></a>\n</p>
 
 <a href="mailto:kazimuzammil99@gmail.com"><img src="assets/visual/connect.svg" alt="Let’s connect — kazimuzammil99@gmail.com" width="100%"></a>

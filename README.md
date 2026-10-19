@@ -9,7 +9,7 @@
   <a href="mailto:kazimuzammil99@gmail.com"><img src="assets/visual/nav-contact.svg" alt="Email Muzammil" width="170"></a>
 </p>
 
-<img src="assets/visual/stack-heading.svg" alt="Technology toolkit" width="100%">
+<img src="assets/visual/stack-heading-v2.svg" alt="Technology toolkit" width="100%">
 
 <p align="center">
   <a href="https://learn.microsoft.com/azure/"><img src="assets/visual/tool-azure.svg" alt="Azure" width="170"></a>
@@ -26,7 +26,7 @@
 
 <p align="center"><a href="https://m-qazi99.github.io/#skills">More technologies ↗</a></p>
 
-<img src="assets/visual/work-heading.svg" alt="Selected case studies" width="100%">
+<img src="assets/visual/work-heading-v2.svg" alt="Selected case studies" width="100%">
 
 <p align="center">
   <a href="https://m-qazi99.github.io/work/pipeline-support/"><img src="assets/visual/work-pipeline.svg" alt="Pipeline Support Assistant — case study" width="245"></a>
@@ -36,7 +36,7 @@
 
 <p align="center"><a href="https://github.com/m-qazi99/m-qazi99.github.io">Portfolio source code ↗</a></p>
 
-<img src="assets/visual/journey-heading.svg" alt="Career at Cognizant" width="100%">
+<img src="assets/visual/journey-heading-v2.svg" alt="Career at Cognizant" width="100%">
 <p align="center">
 <a href="https://m-qazi99.github.io/#experience"><img src="assets/visual/job-trainee.svg" alt="Cognizant: Programmer Analyst Trainee, March 2022–June 2023" width="245"></a>
 <a href="https://m-qazi99.github.io/#experience"><img src="assets/visual/job-analyst.svg" alt="Cognizant: Programmer Analyst, June 2023–November 2024" width="245"></a>
