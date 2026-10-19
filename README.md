@@ -4,76 +4,119 @@
   <img alt="Muzammil Qazi — Reliable data. Practical AI. Less busywork." src="assets/profile-banner-light.svg" width="1200">
 </picture>
 
-# Muzammil Qazi
+# Hi, I'm Muzammil Qazi
 
 **Azure Data Engineer · AI Workflow Automation · Intelligent Data Operations**  
 Pune, India · Enterprise experience at Cognizant since March 2022
 
-[Portfolio](https://m-qazi99.github.io/) · [Résumé](https://m-qazi99.github.io/Muzammil_Qazi_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/muzammil-1209-qazi/) · [Email](mailto:kazimuzammil99@gmail.com)
+[Explore my interactive portfolio ↗](https://m-qazi99.github.io/) · [About me](https://m-qazi99.github.io/about/) · [Résumé ↓](https://m-qazi99.github.io/Muzammil_Qazi_Resume.pdf) · [Contact](https://m-qazi99.github.io/contact/)
 
-I work on the practical problems around enterprise data: moving it reliably, checking that it is correct, understanding failures, and making the next handoff clearer. My toolkit combines **Azure Data Factory, Databricks, PySpark, Python, and SQL** with AI-assisted diagnostics and workflow automation.
+I connect **data engineering with an operational mindset**: move data reliably, check what changed, understand failures, and make the next handoff clearer. My toolkit brings together Azure, Python, PySpark, SQL, and practical AI-assisted workflows.
 
-## What I bring to a team
-
-- **Reliable ingestion:** reusable ADF workflows, parameters, dependencies, triggers, and source-to-target processing.
-- **Data quality:** SQL validation, schema checks, reconciliation, and clear exception reporting.
-- **Operational clarity:** telemetry analysis, root-cause investigation, error handling, runbooks, and technical documentation.
-- **Practical AI:** diagnostic guidance, metadata-driven SQL generation, and retrieval over operational documents—with engineering review of generated outputs.
-
-## Technology map
-
-| Capability | Technologies and practices |
-| --- | --- |
-| Azure data platforms | Azure Data Factory · ADLS Gen2 · Azure Databricks · Azure Synapse Analytics |
-| Processing and integration | Python · PySpark · Apache Spark · Spark SQL · ETL/ELT · batch ingestion · pipeline orchestration |
-| Databases and validation | SQL · T-SQL · SQL Server · MySQL · source-to-target mapping · schema validation · reconciliation |
-| Delivery and operations | Git · Azure DevOps · monitoring · logging · error handling · incident investigation · runbooks |
-| AI-assisted project work | LLM API integration · prompt design · AI-assisted SQL/PySpark · Streamlit · documentation automation |
-| Data formats | JSON · CSV · Parquet |
-
-**Currently deepening:** Microsoft Fabric, OneLake, lakehouse and Delta Lake concepts, Medallion Architecture, RAG/LlamaIndex, and Copilot Studio/Power Automate. These are developing areas rather than claims of advanced production ownership.
-
-## Selected project case studies
-
-| Project | Problem and approach | Read more |
+| Move | Validate | Assist |
 | --- | --- | --- |
-| **AI Data Pipeline Support Assistant** | Interpret ADF execution traces and turn exceptions into diagnostic guidance, validation SQL, and incident notes. Python · Streamlit · LLM API. | [Case study →](https://m-qazi99.github.io/work/pipeline-support/) |
-| **Data Quality & Reconciliation Framework** | Use source/target metadata to generate SQL checks, compare schemas, and summarize data discrepancies. Python · SQL · metadata automation. | [Case study →](https://m-qazi99.github.io/work/data-quality/) |
-| **Operations Knowledge Assistant** | Retrieve workflow and troubleshooting guidance from SOPs and runbooks. RAG · LlamaIndex · LLM. **Proof of concept.** | [Case study →](https://m-qazi99.github.io/work/knowledge-assistant/) |
+| Reusable Azure ingestion and transformation workflows | Source-to-target checks, reconciliation, and exception reporting | Diagnostic context, metadata-driven SQL, and clearer operational documentation |
 
-These are résumé-based project summaries. The case studies explain scope and evidence; public implementations of these three assistants are not currently linked.
+## Enter the workbench
 
-## Public code
+**[Explore 43 technologies & practices →](https://m-qazi99.github.io/#skills)**  
+Search by technology and filter by discipline in my interactive technology atlas.
 
-### [Professional portfolio — source repository](https://github.com/m-qazi99/m-qazi99.github.io)
+**[Try the pipeline explorer →](https://m-qazi99.github.io/#playground)**  
+Switch between a healthy ingestion, a schema mismatch, and missing records. A browser-based, synthetic demonstration of diagnostic thinking.
 
-A live, maintainable portfolio with dedicated case-study pages, structured profile content, a Python static-site generator, responsive HTML/CSS, accessible navigation, and search/social metadata.
+**[Browse selected work →](https://m-qazi99.github.io/#work)**  
+Filter project case studies by AI diagnostics, data quality, and knowledge retrieval.
 
-**[Visit the website →](https://m-qazi99.github.io/)** · [Browse the code](https://github.com/m-qazi99/m-qazi99.github.io) · [Editing guide](https://github.com/m-qazi99/m-qazi99.github.io#readme)
+## My technology atlas
+
+Click a discipline to explore the tools and practices behind it.
 
 <details>
-<summary><strong>Experience and education</strong></summary>
+<summary><strong>Azure & platforms</strong> — 5 technologies & practices</summary>
 
-### Cognizant Technology Solutions · Pune
-
-| Role | Dates | Work focus |
-| --- | --- | --- |
-| Associate | Nov 2024–Present | Azure data ingestion, pipeline operations, validation, and AI-assisted automation |
-| Programmer Analyst | Jun 2023–Nov 2024 | Azure/SQL data integration, Databricks/PySpark transformations, and quality checks |
-| Programmer Analyst Trainee | Mar 2022–Jun 2023 | Enterprise operations analytics, reporting automation, and process documentation |
-
-### Education
-
-- **B.E., Mechanical Engineering** — Swami Ramanand Teerth Marathwada University · 2017–2020
-- **Diploma, Mechanical Engineering** — VDF School of Polytechnic · 2013–2016
+**Microsoft Azure** · **Azure Data Factory** · **ADLS Gen2** · **Azure Databricks** · **Azure Synapse Analytics**
 
 </details>
 
-## Let's connect
+<details>
+<summary><strong>Data & processing</strong> — 11 technologies & practices</summary>
 
-I'm interested in **Azure data engineering, data quality, and practical workflow automation** roles and project conversations. Based in Pune; open to relevant remote opportunities that can employ someone in India.
+**Python** · **PySpark** · **Apache Spark** · **Spark SQL** · **SQL** · **T-SQL** · **SQL Server** · **MySQL** · **ETL / ELT** · **Batch ingestion** · **Pipeline orchestration**
 
-Have a role or a defined data problem in mind? [Email me](mailto:kazimuzammil99@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/muzammil-1209-qazi/).
+</details>
+
+<details>
+<summary><strong>Quality & operations</strong> — 8 technologies & practices</summary>
+
+**Schema validation** · **Source-to-target mapping** · **Reconciliation** · **Telemetry monitoring** · **Logging** · **Error handling** · **Incident investigation** · **Runbooks**
+
+</details>
+
+<details>
+<summary><strong>AI & automation</strong> — 6 technologies & practices</summary>
+
+**LLM API integration** · **Prompt design** · **AI-assisted SQL** · **AI-assisted PySpark** · **Streamlit** · **Documentation automation**
+
+</details>
+
+<details>
+<summary><strong>Delivery & formats</strong> — 5 technologies & practices</summary>
+
+**Git** · **Azure DevOps** · **JSON** · **CSV** · **Parquet**
+
+</details>
+
+<details>
+<summary><strong>Exploring</strong> — 8 technologies & practices</summary>
+
+**Microsoft Fabric** · **OneLake** · **Delta Lake** · **Medallion architecture** · **RAG** · **LlamaIndex** · **Copilot Studio** · **Power Automate**
+
+Developing areas and current learning interests, separate from core delivery experience.
+
+</details>
+
+## Selected case studies
+
+| Project | Focus | Explore |
+| --- | --- | --- |
+| **AI Data Pipeline Support Assistant** | ADF errors → diagnostic guidance → validation SQL and incident notes. Python, Streamlit, LLM API. | [Read the approach ↗](https://m-qazi99.github.io/work/pipeline-support/) |
+| **Data Quality & Reconciliation Framework** | Metadata → schema checks → source-to-target reconciliation. Python, SQL. | [Explore the checks ↗](https://m-qazi99.github.io/work/data-quality/) |
+| **Operations Knowledge Assistant** | SOPs and runbooks → retrieval → contextual workflow guidance. RAG, LlamaIndex. **Proof of concept.** | [See the concept ↗](https://m-qazi99.github.io/work/knowledge-assistant/) |
+
+These are résumé-based case studies. Public implementations of the three assistants are not currently linked. The pipeline explorer is a separate illustrative demonstration.
+
+## Public code worth exploring
+
+### [The Data Workbench — my portfolio](https://github.com/m-qazi99/m-qazi99.github.io)
+
+A responsive glass-style website with searchable skills, project filters, a pipeline scenario explorer, accessible navigation, dedicated About and Contact pages, and an email brief builder. Built with Python, semantic HTML, CSS, and vanilla JavaScript.
+
+[Live website ↗](https://m-qazi99.github.io/) · [Source code](https://github.com/m-qazi99/m-qazi99.github.io) · [Design research](https://github.com/m-qazi99/m-qazi99.github.io/blob/main/research/profile-inspiration.md)
+
+<details>
+<summary><strong>Experience & education</strong></summary>
+
+### Cognizant Technology Solutions · Pune
+
+| Role | Dates | Focus |
+| --- | --- | --- |
+| Associate | Nov 2024–Present | Azure data engineering and automated operations |
+| Programmer Analyst | Jun 2023–Nov 2024 | Data integration, transformations, and quality |
+| Programmer Analyst Trainee | Mar 2022–Jun 2023 | Enterprise operations analytics and process documentation |
+
+**B.E., Mechanical Engineering** — Swami Ramanand Teerth Marathwada University, 2017–2020  
+**Diploma, Mechanical Engineering** — VDF School of Polytechnic, 2013–2016
+
+[More about me →](https://m-qazi99.github.io/about/) · [Experience details →](https://m-qazi99.github.io/#experience)
+
+</details>
+
+## Let's build a useful next step
+
+Interested in **Azure data engineering, data quality, and practical workflow automation** roles and project conversations. Based in Pune; open to relevant remote opportunities that can employ someone in India.
+
+[Prepare a conversation brief ↗](https://m-qazi99.github.io/contact/) · [Email me](mailto:kazimuzammil99@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/muzammil-1209-qazi/)
 
 ---
 
