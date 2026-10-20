@@ -102,3 +102,14 @@ readme+='''</p>
 '''
 (R/'README.md').write_text(readme)
 print('Built visual README and original SVG cards.')
+
+# Preserve the five live project cards when rebuilding the profile.
+import json
+catalog=R/'content/live-projects.json'
+if catalog.exists():
+ items=json.loads(catalog.read_text());text=(R/'README.md').read_text();start=text.index('<img src="assets/visual/work-heading-v2.svg"');end=text.index('<img src="assets/visual/journey-heading-v2.svg"')
+ section='<img src="assets/visual/work-heading-v2.svg" alt="Five live Python projects" width="100%">\n<p align="center">\n'
+ for p in items:section+='<a href="https://m-qazi99.github.io/'+p['slug']+'/"><img src="assets/visual/live-'+p['slug']+'.svg" alt="Launch '+p['name']+'" width="245"></a>\n'
+ section+='</p>\n<p align="center">\n'
+ for p in items:section+='<a href="https://github.com/m-qazi99/'+p['slug']+'"><img src="assets/visual/code-'+p['slug']+'.svg" alt="'+p['name']+' source" width="140"></a>\n'
+ section+='</p>\n\n';(R/'README.md').write_text(text[:start]+section+text[end:])

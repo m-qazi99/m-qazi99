@@ -26,15 +26,22 @@
 
 <p align="center"><a href="https://m-qazi99.github.io/#skills">More technologies ↗</a></p>
 
-<img src="assets/visual/work-heading-v2.svg" alt="Selected case studies" width="100%">
+<img src="assets/visual/work-heading-v2.svg" alt="Five live Python projects" width="100%">
 
 <p align="center">
-  <a href="https://m-qazi99.github.io/work/pipeline-support/"><img src="assets/visual/work-pipeline.svg" alt="Pipeline Support Assistant — case study" width="245"></a>
-  <a href="https://m-qazi99.github.io/work/data-quality/"><img src="assets/visual/work-quality.svg" alt="Data Quality and Reconciliation — case study" width="245"></a>
-  <a href="https://m-qazi99.github.io/work/knowledge-assistant/"><img src="assets/visual/work-knowledge.svg" alt="Operations Knowledge Assistant — proof of concept" width="245"></a>
+<a href="https://m-qazi99.github.io/datalens/"><img src="assets/visual/live-datalens.svg" alt="Launch DataLens: live Python application" width="245"></a>
+<a href="https://m-qazi99.github.io/pipeline-pulse/"><img src="assets/visual/live-pipeline-pulse.svg" alt="Launch Pipeline Pulse: live Python application" width="245"></a>
+<a href="https://m-qazi99.github.io/recon-lab/"><img src="assets/visual/live-recon-lab.svg" alt="Launch Recon Lab: live Python application" width="245"></a>
+<a href="https://m-qazi99.github.io/runbook-radar/"><img src="assets/visual/live-runbook-radar.svg" alt="Launch Runbook Radar: live Python application" width="245"></a>
+<a href="https://m-qazi99.github.io/privacy-forge/"><img src="assets/visual/live-privacy-forge.svg" alt="Launch Privacy Forge: live Python application" width="245"></a>
 </p>
-
-<p align="center"><a href="https://github.com/m-qazi99/m-qazi99.github.io">Portfolio source code ↗</a></p>
+<p align="center">
+<a href="https://github.com/m-qazi99/datalens"><img src="assets/visual/code-datalens.svg" alt="DataLens source repository" width="140"></a>
+<a href="https://github.com/m-qazi99/pipeline-pulse"><img src="assets/visual/code-pipeline-pulse.svg" alt="Pipeline Pulse source repository" width="140"></a>
+<a href="https://github.com/m-qazi99/recon-lab"><img src="assets/visual/code-recon-lab.svg" alt="Recon Lab source repository" width="140"></a>
+<a href="https://github.com/m-qazi99/runbook-radar"><img src="assets/visual/code-runbook-radar.svg" alt="Runbook Radar source repository" width="140"></a>
+<a href="https://github.com/m-qazi99/privacy-forge"><img src="assets/visual/code-privacy-forge.svg" alt="Privacy Forge source repository" width="140"></a>
+</p>
 
 <img src="assets/visual/journey-heading-v2.svg" alt="Career at Cognizant" width="100%">
 <p align="center">
