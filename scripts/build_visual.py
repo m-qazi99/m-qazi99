@@ -113,3 +113,9 @@ if catalog.exists():
  section+='</p>\n<p align="center">\n'
  for p in items:section+='<a href="https://github.com/m-qazi99/'+p['slug']+'"><img src="assets/visual/code-'+p['slug']+'.svg" alt="'+p['name']+' source" width="140"></a>\n'
  section+='</p>\n\n';(R/'README.md').write_text(text[:start]+section+text[end:])
+
+# Keep accessible project attribution when rebuilding the image-led profile.
+from pathlib import Path as _Path
+_append=R/"content/search-attribution.md"
+if _append.exists():
+ with (R/"README.md").open("a") as _out:_out.write(_append.read_text())
