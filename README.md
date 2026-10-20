@@ -26,21 +26,20 @@
 
 <p align="center"><a href="https://m-qazi99.github.io/#skills">More technologies ↗</a></p>
 
-<img src="assets/visual/work-heading-v2.svg" alt="Five live Python projects" width="100%">
-
+<img src="assets/visual/work-heading-v2.svg" alt="Interactive Python studios" width="100%">
 <p align="center">
-<a href="https://m-qazi99.github.io/datalens/"><img src="assets/visual/live-datalens.svg" alt="Launch DataLens: live Python application" width="245"></a>
-<a href="https://m-qazi99.github.io/pipeline-pulse/"><img src="assets/visual/live-pipeline-pulse.svg" alt="Launch Pipeline Pulse: live Python application" width="245"></a>
-<a href="https://m-qazi99.github.io/recon-lab/"><img src="assets/visual/live-recon-lab.svg" alt="Launch Recon Lab: live Python application" width="245"></a>
-<a href="https://m-qazi99.github.io/runbook-radar/"><img src="assets/visual/live-runbook-radar.svg" alt="Launch Runbook Radar: live Python application" width="245"></a>
-<a href="https://m-qazi99.github.io/privacy-forge/"><img src="assets/visual/live-privacy-forge.svg" alt="Launch Privacy Forge: live Python application" width="245"></a>
+<a href="https://m-qazi99.github.io/pipeline-pulse/"><img src="https://m-qazi99.github.io/pipeline-pulse/studio-preview.jpg" alt="Pipeline Pulse interactive Python studio — launch live" width="390"></a>
+<a href="https://m-qazi99.github.io/datalens/"><img src="https://m-qazi99.github.io/datalens/studio-preview.jpg" alt="DataLens interactive Python studio — launch live" width="390"></a>
+<a href="https://m-qazi99.github.io/recon-lab/"><img src="https://m-qazi99.github.io/recon-lab/studio-preview.jpg" alt="Recon Lab interactive Python studio — launch live" width="390"></a>
+<a href="https://m-qazi99.github.io/runbook-radar/"><img src="https://m-qazi99.github.io/runbook-radar/studio-preview.jpg" alt="Runbook Radar interactive Python studio — launch live" width="390"></a>
+<a href="https://m-qazi99.github.io/privacy-forge/"><img src="https://m-qazi99.github.io/privacy-forge/studio-preview.jpg" alt="Privacy Forge interactive Python studio — launch live" width="390"></a>
 </p>
 <p align="center">
-<a href="https://github.com/m-qazi99/datalens"><img src="assets/visual/code-datalens.svg" alt="DataLens source repository" width="140"></a>
-<a href="https://github.com/m-qazi99/pipeline-pulse"><img src="assets/visual/code-pipeline-pulse.svg" alt="Pipeline Pulse source repository" width="140"></a>
-<a href="https://github.com/m-qazi99/recon-lab"><img src="assets/visual/code-recon-lab.svg" alt="Recon Lab source repository" width="140"></a>
-<a href="https://github.com/m-qazi99/runbook-radar"><img src="assets/visual/code-runbook-radar.svg" alt="Runbook Radar source repository" width="140"></a>
-<a href="https://github.com/m-qazi99/privacy-forge"><img src="assets/visual/code-privacy-forge.svg" alt="Privacy Forge source repository" width="140"></a>
+<a href="https://github.com/m-qazi99/pipeline-pulse"><img src="assets/visual/code-pipeline-pulse.svg" alt="Pipeline Pulse Python source and tests" width="140"></a>
+<a href="https://github.com/m-qazi99/datalens"><img src="assets/visual/code-datalens.svg" alt="DataLens Python source and tests" width="140"></a>
+<a href="https://github.com/m-qazi99/recon-lab"><img src="assets/visual/code-recon-lab.svg" alt="Recon Lab Python source and tests" width="140"></a>
+<a href="https://github.com/m-qazi99/runbook-radar"><img src="assets/visual/code-runbook-radar.svg" alt="Runbook Radar Python source and tests" width="140"></a>
+<a href="https://github.com/m-qazi99/privacy-forge"><img src="assets/visual/code-privacy-forge.svg" alt="Privacy Forge Python source and tests" width="140"></a>
 </p>
 
 <img src="assets/visual/journey-heading-v2.svg" alt="Career at Cognizant" width="100%">

@@ -45,7 +45,7 @@ for key,label in [('portfolio','PORTFOLIO'),('resume','RÉSUMÉ'),('linkedin','L
 for key,label,url in ICONS:
  c=paper(280,190)+logo(key,108,31,64)+t(140,143,label,18,INK,'text-anchor="middle"')+t(140,169,'↗',14,G,'text-anchor="middle"')
  svg('tool-'+key+'.svg',280,190,c,label+' — view documentation')
-for fname,left,right in [('stack-heading-v2.svg','01 / THE TOOLKIT','CLOUD  /  DATA  /  AUTOMATION'),('work-heading-v2.svg','02 / SELECTED WORK','EXPLORE THE CASE STUDIES'),('journey-heading-v2.svg','03 / THE JOURNEY','COGNIZANT TECHNOLOGY SOLUTIONS')]:
+for fname,left,right in [('stack-heading-v2.svg','01 / THE TOOLKIT','CLOUD  /  DATA  /  AUTOMATION'),('work-heading-v2.svg','02 / SELECTED WORK','EXPLORE THE PYTHON STUDIOS'),('journey-heading-v2.svg','03 / THE JOURNEY','COGNIZANT TECHNOLOGY SOLUTIONS')]:
  c=paper(1200,74)+t(24,44,left,16,G,'letter-spacing="3"')+t(1176,44,right,12,M,'text-anchor="end" letter-spacing="2"')
  svg(fname,1200,74,c,left)
 # Three compact illustrated, clickable case-study cards.
@@ -109,7 +109,7 @@ catalog=R/'content/live-projects.json'
 if catalog.exists():
  items=json.loads(catalog.read_text());text=(R/'README.md').read_text();start=text.index('<img src="assets/visual/work-heading-v2.svg"');end=text.index('<img src="assets/visual/journey-heading-v2.svg"')
  section='<img src="assets/visual/work-heading-v2.svg" alt="Five live Python projects" width="100%">\n<p align="center">\n'
- for p in items:section+='<a href="https://m-qazi99.github.io/'+p['slug']+'/"><img src="assets/visual/live-'+p['slug']+'.svg" alt="Launch '+p['name']+'" width="245"></a>\n'
+ for p in items:section+='<a href="https://m-qazi99.github.io/'+p['slug']+'/"><img src="https://m-qazi99.github.io/'+p['slug']+'/studio-preview.jpg" alt="Launch '+p['name']+' interactive Python studio" width="390"></a>\n'
  section+='</p>\n<p align="center">\n'
  for p in items:section+='<a href="https://github.com/m-qazi99/'+p['slug']+'"><img src="assets/visual/code-'+p['slug']+'.svg" alt="'+p['name']+' source" width="140"></a>\n'
  section+='</p>\n\n';(R/'README.md').write_text(text[:start]+section+text[end:])
