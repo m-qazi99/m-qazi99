@@ -12,4 +12,7 @@ Muzammil Qazi is based in Pune, India, and focuses on data engineering and pract
 
 These are independent portfolio projects developed with Codex assistance, using synthetic demonstrations. They do not establish employer deployment, client results, or production adoption.
 
+
+**New in 2.1:** Python-derived Review Desk priorities, inspection checklists and Markdown handoffs in each live product. [Compare products](https://m-qazi99.github.io/project-guide/) · [Open-source catalog](https://github.com/m-qazi99/Reverse) · [How this profile is maintained](docs/MAINTAINING.md).
+
 </details>

@@ -26,21 +26,23 @@
 
 <p align="center"><a href="https://m-qazi99.github.io/#skills">More technologies ↗</a></p>
 
-<img src="assets/visual/work-heading-v2.svg" alt="Interactive Python studios" width="100%">
+<img src="assets/visual/work-heading-v2.svg" alt="Five open-source Python products built by Muzammil Qazi" width="100%">
+
 <p align="center">
-<a href="https://m-qazi99.github.io/pipeline-pulse/"><img src="https://m-qazi99.github.io/pipeline-pulse/studio-preview.jpg" alt="Pipeline Pulse interactive Python studio — launch live" width="390"></a>
-<a href="https://m-qazi99.github.io/datalens/"><img src="https://m-qazi99.github.io/datalens/studio-preview.jpg" alt="DataLens interactive Python studio — launch live" width="390"></a>
-<a href="https://m-qazi99.github.io/recon-lab/"><img src="https://m-qazi99.github.io/recon-lab/studio-preview.jpg" alt="Recon Lab interactive Python studio — launch live" width="390"></a>
-<a href="https://m-qazi99.github.io/runbook-radar/"><img src="https://m-qazi99.github.io/runbook-radar/studio-preview.jpg" alt="Runbook Radar interactive Python studio — launch live" width="390"></a>
-<a href="https://m-qazi99.github.io/privacy-forge/"><img src="https://m-qazi99.github.io/privacy-forge/studio-preview.jpg" alt="Privacy Forge interactive Python studio — launch live" width="390"></a>
+<a href="https://m-qazi99.github.io/pipeline-pulse/"><img src="assets/visual/review-pipeline-pulse.svg" alt="Pipeline Pulse v2.1 — Failed-activity priorities, recovery coverage and capacity handoffs" width="390"></a>
+<a href="https://m-qazi99.github.io/datalens/"><img src="assets/visual/review-datalens.svg" alt="DataLens v2.1 — Contract coverage gaps and failing-rule review priorities" width="390"></a>
+<a href="https://m-qazi99.github.io/recon-lab/"><img src="assets/visual/review-recon-lab.svg" alt="Recon Lab v2.1 — Keyset exceptions and field-level reconciliation priorities" width="390"></a>
+<a href="https://m-qazi99.github.io/runbook-radar/"><img src="assets/visual/review-runbook-radar.svg" alt="Runbook Radar v2.1 — Evaluation coverage, top-K misses and no-match review" width="390"></a>
+<a href="https://m-qazi99.github.io/privacy-forge/"><img src="assets/visual/review-privacy-forge.svg" alt="Privacy Forge v2.1 — Retained signals, singleton groups and policy review" width="390"></a>
 </p>
 <p align="center">
-<a href="https://github.com/m-qazi99/pipeline-pulse"><img src="assets/visual/code-pipeline-pulse.svg" alt="Pipeline Pulse Python source and tests" width="140"></a>
-<a href="https://github.com/m-qazi99/datalens"><img src="assets/visual/code-datalens.svg" alt="DataLens Python source and tests" width="140"></a>
-<a href="https://github.com/m-qazi99/recon-lab"><img src="assets/visual/code-recon-lab.svg" alt="Recon Lab Python source and tests" width="140"></a>
-<a href="https://github.com/m-qazi99/runbook-radar"><img src="assets/visual/code-runbook-radar.svg" alt="Runbook Radar Python source and tests" width="140"></a>
-<a href="https://github.com/m-qazi99/privacy-forge"><img src="assets/visual/code-privacy-forge.svg" alt="Privacy Forge Python source and tests" width="140"></a>
+<a href="https://github.com/m-qazi99/pipeline-pulse"><img src="assets/visual/code-pipeline-pulse.svg" alt="Pipeline Pulse source and contribution guides" width="140"></a>
+<a href="https://github.com/m-qazi99/datalens"><img src="assets/visual/code-datalens.svg" alt="DataLens source and contribution guides" width="140"></a>
+<a href="https://github.com/m-qazi99/recon-lab"><img src="assets/visual/code-recon-lab.svg" alt="Recon Lab source and contribution guides" width="140"></a>
+<a href="https://github.com/m-qazi99/runbook-radar"><img src="assets/visual/code-runbook-radar.svg" alt="Runbook Radar source and contribution guides" width="140"></a>
+<a href="https://github.com/m-qazi99/privacy-forge"><img src="assets/visual/code-privacy-forge.svg" alt="Privacy Forge source and contribution guides" width="140"></a>
 </p>
+<p align="center"><a href="https://m-qazi99.github.io/#live-projects">Find a project by discipline ↗</a> · <a href="https://github.com/m-qazi99/Reverse">Workbench catalog ↗</a></p>
 
 <img src="assets/visual/journey-heading-v2.svg" alt="Career at Cognizant" width="100%">
 <p align="center">
@@ -63,5 +65,8 @@ Muzammil Qazi is based in Pune, India, and focuses on data engineering and pract
 - [Privacy Forge](https://m-qazi99.github.io/projects/privacy-forge/): column transformation policies, heuristic signals, and group exposure.
 
 These are independent portfolio projects developed with Codex assistance, using synthetic demonstrations. They do not establish employer deployment, client results, or production adoption.
+
+
+**New in 2.1:** Python-derived Review Desk priorities, inspection checklists and Markdown handoffs in each live product. [Compare products](https://m-qazi99.github.io/project-guide/) · [Open-source catalog](https://github.com/m-qazi99/Reverse) · [How this profile is maintained](docs/MAINTAINING.md).
 
 </details>
