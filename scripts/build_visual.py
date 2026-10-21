@@ -119,3 +119,7 @@ from pathlib import Path as _Path
 _append=R/"content/search-attribution.md"
 if _append.exists():
  with (R/"README.md").open("a") as _out:_out.write(_append.read_text())
+
+# Always finish with the v2.1 product cards, preserving a single canonical build.
+import runpy as _runpy
+_runpy.run_path(str(R/'scripts/build_showcase.py'),run_name='__main__')
